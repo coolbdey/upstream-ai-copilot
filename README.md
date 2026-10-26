@@ -11,7 +11,7 @@
 
 ## Why this exists
 
-Upstream operators including Aker BP have set a public goal of deploying hundreds of AI agents across operations by 2026, built on top of industrial data platforms such as Cognite Data Fusion and Cognite Atlas AI. The hard part is not the model. The hard part is the architecture beneath it: the contextualised OT data, the engineering knowledge graph, the access boundaries, and the orchestration layer that lets agents reason across all of it without hallucinating.
+Upstream operators have set a public goal of deploying hundreds of AI agents across operations by 2026, built on top of industrial data platforms such as Cognite Data Fusion and Cognite Atlas AI. The hard part is not the model. The hard part is the architecture beneath it: the contextualised OT data, the engineering knowledge graph, the access boundaries, and the orchestration layer that lets agents reason across all of it without hallucinating.
 
 This repository is a working reference of that architecture in miniature. It uses synthetic production sensor data and synthetic engineering documents so it can run locally on any laptop, with the same patterns that scale to a real industrial AI platform.
 
